@@ -1,0 +1,22 @@
+{
+  "name": "javascript-pack",
+  "displayName": "Nhymxu Javascript Pack",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.1"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "esbenp.prettier-vscode",
+    "prisma.prisma",
+    "yoavbls.pretty-ts-errors",
+    "shopify.polaris-for-vscode",
+    "christian-kohler.npm-intellisense",
+    "dbaeumer.vscode-eslint",
+    "wix.vscode-import-cost",
+    "folke.vscode-monorepo-workspace"
+  ]
+}

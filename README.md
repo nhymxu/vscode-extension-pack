@@ -1,2 +1,7 @@
-# vscode-extension-pack
-Extension pack for my custom vscode setup
+# nhymxu/vscode-extension-pack
+
+Local install
+
+```shell
+ln -s ~/path_to/vscode-extension-pack/javascript ~/.vscode/extensions/nhymxu.javascript-pack
+```
