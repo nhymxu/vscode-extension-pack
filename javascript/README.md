@@ -1,1 +1,1 @@
-# Nhymxu Javascript pack
+# Nhymxu Javascript extension pack

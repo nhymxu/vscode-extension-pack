@@ -1,7 +1,8 @@
 {
-  "name": "javascript-pack",
+  "name": "dz-javascript-pack",
   "displayName": "Nhymxu Javascript Pack",
   "description": "",
+  "publisher": "nhymxu",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.75.1"
@@ -9,6 +10,10 @@
   "categories": [
     "Extension Packs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nhymxu/vscode-extension-pack/tree/main/javascript"
+  },
   "extensionPack": [
     "esbenp.prettier-vscode",
     "prisma.prisma",
