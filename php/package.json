@@ -1,0 +1,18 @@
+{
+  "name": "php-pack",
+  "displayName": "Nhymxu PHP Pack",
+  "description": "",
+  "publisher": "nhymxu",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.1"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "bmewburn.vscode-intelephense-client",
+    "zobo.php-intellisense",
+    "MehediDracula.php-namespace-resolver"
+  ]
+}
