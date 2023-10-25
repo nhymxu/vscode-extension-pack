@@ -1,5 +1,5 @@
 {
-  "name": "php-pack",
+  "name": "dz-php-pack",
   "displayName": "Nhymxu PHP Pack",
   "description": "",
   "publisher": "nhymxu",
@@ -10,6 +10,10 @@
   "categories": [
     "Extension Packs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nhymxu/vscode-extension-pack/tree/main/php"
+  },
   "extensionPack": [
     "bmewburn.vscode-intelephense-client",
     "zobo.php-intellisense",
